@@ -8,7 +8,7 @@ Requirements:
 Mac OS X
 Microsoft Excel for Mac
 
-Tested on 10.8.2 and Office 2011
+Tested on 10.8.2, 10.9.2 and Office 2011 for Mac
 
 I have chosen to include the file as a script, you can open it in AppleScript Editor and save it as an application to make it runnable.
 
